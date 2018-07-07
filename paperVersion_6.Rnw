@@ -268,9 +268,11 @@ legend('left', legend = c("MEDIUM","LOW","UP"), # third change
 \end{adjustbox}
 \caption{Paises conglomerados segun sus indicadores sociopol??ticos}\label{clustmap}
 \end{figure}
+%\end{adjustbox}
 
+% 
 \bibliographystyle{abbrv}
-\renewcommand{\refname}{Bibliografia}
+\renewcommand{\refname}{Bibliography}
 \bibliography{Colombia}
 
 \end{document}

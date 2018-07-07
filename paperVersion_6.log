@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  6 JUL 2018 17:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  7 JUL 2018 14:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -473,7 +473,7 @@ Package pdftex.def Info: paperVersion_6-plotMap1.pdf  used on input line 254.
  <./paperVersion_6-plotMap1.pdf>] (./paperVersion_6.aux) ) 
 Here is how much of TeX's memory you used:
  4235 strings out of 492649
- 61707 string characters out of 6129622
+ 61708 string characters out of 6129622
  130997 words of memory out of 5000000
  7970 multiletter control sequences out of 15000+600000
  41951 words of font info for 84 fonts, out of 8000000 for 9000
@@ -497,7 +497,7 @@ pe1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1
 public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/pu
 blic/amsfonts/cm/cmti10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmtt9.pfb>
-Output written on paperVersion_6.pdf (6 pages, 428030 bytes).
+Output written on paperVersion_6.pdf (6 pages, 428175 bytes).
 PDF statistics:
  112 PDF objects out of 1000 (max. 8388607)
  79 compressed objects within 1 object stream
